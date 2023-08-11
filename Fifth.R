@@ -1,0 +1,8 @@
+a=matrix(c(1,2,3,4,5,6,7,8,9),byrow=3,ncol=3)
+print(a)
+
+b=matrix(c(11,12,13,14,15,16,17,18,19),byrow=3,ncol=3)
+print
+
+z=a+b
+print(z)
